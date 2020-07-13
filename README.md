@@ -1,8 +1,8 @@
 # Welcome to baicic!
 Baicic is a programming language designed for people with bad gharmalrr.
-##Bringing innovation!
+## Bringing innovation!
 Baicic is the only programming language that doesn't crash when grammar or/punctuation errors are done. Baicic however does crash when they aren't done!
-##By a trustworthy company!
+## By a trustworthy company!
 Baicic is developed by nanohard corporation! This means that any previous products from nanohard including nanohar slugdows, NH fos6.20 and nanohard xxxbox oneun wil support baicic!
 ## Fuckhub integration!
 Baicic works with nanohard fuckhub, the best source controll system you'll ever find!
